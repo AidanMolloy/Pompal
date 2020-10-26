@@ -1,0 +1,6 @@
+#Shows index.py when you type in .../
+DirectoryIndex index.py
+
+#Redirect 404 and 403 to error page
+ErrorDocument 404 "https://cs1.ucc.ie/~am63/cgi-bin/404.py"
+ErrorDocument 403 "https://cs1.ucc.ie/~am63/cgi-bin/404.py"
