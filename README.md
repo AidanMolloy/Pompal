@@ -1,4 +1,4 @@
-# PomPal (Web Dev 2 Project )
+# PomPal (Web Dev 2 Project)
 PomPal, is the latest innovation in note taking, time keeping and task completion. 
 Inspired by productivity brought by the Pomodoro Technique I decided to create a website that allows users to complete tasks in 25 minute segments. 
 You can link notes to these timers to keep track of where you are. 
